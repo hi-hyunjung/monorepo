@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "packageManager": "pnpm@10.5.2",
-  "dependencies": {
-    "turbo": "^2.4.4"
+  "devDependencies": {
+    "prettier": "catalog:",
+    "turbo": "^2.4.4",
+    "typescript": "catalog:"
   }
 }
